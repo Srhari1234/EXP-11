@@ -1,18 +1,20 @@
 # Experiment 11
 
-## Aim
+## Aim:
 To study and implement Classes and Objects
 
-# Theory 
+## Theory: 
 Classes:
 Definition: A class is a blueprint or template for creating objects. It defines the properties (data members) and behaviors (member functions or methods) that the objects created from the class will have.
 
 object:
 Definition: An object is an instance of a class. When you create an object, you are creating a specific example of the class, with its own set of data.
 
-# Codes
-# code 1 
+## Code 1:
 ~~~
+//Name: Srihari Nair
+//Prn: 23070123131
+//Class: EnTC B-2
 #include <iostream>
 using namespace std;
 
@@ -31,10 +33,16 @@ int main()
     cout<<"volume:"<<vol<<endl;
 }
 ~~~
+
+## Output:
+
 ![image](https://github.com/user-attachments/assets/448ae36b-14ed-4b19-84ba-f691bdec142d)
 
-# code 2 
+## Code 2:
 ~~~
+//Name: Srihari Nair
+//Prn: 23070123131
+//Class: EnTC B-2
 #include <iostream>
 using namespace std;
 
@@ -58,10 +66,16 @@ int main()
     cout<<"volume: "<<cube1.volume()<<endl;
 }
 ~~~
+
+## Output:
+
 ![image](https://github.com/user-attachments/assets/5d82fd12-3cee-44c7-9162-31e5018c9aea)
 
-# Private and public variables 
+## Private And Public Variables:
 ~~~
+//Name: Srihari Nair
+//Prn: 23070123131
+//Class: EnTC B-2
 #include <iostream>
 using namespace std;
 
@@ -87,10 +101,16 @@ int main()
     cout<<"volume: "<<cube1.volume()<<endl;
 }
 ~~~
+
+## Output:
+
 ![image](https://github.com/user-attachments/assets/b87e9ae3-b535-481c-883a-7f14fe5b9e63)
 
-# displaying a function inside a class 
+## Displaying A Function Inside A Class:
 ~~~
+//Name: Srihari Nair
+//Prn: 23070123131
+//Class: EnTC B-2
 #include <iostream>
 using namespace std;
 class cube{
@@ -117,8 +137,11 @@ int main()
 ~~~
 ![image](https://github.com/user-attachments/assets/5e14095e-edb9-4d09-b8e9-ad4302881b6a)
 
-# code 5
+## Code 5:
 ~~~
+//Name: Srihari Nair
+//Prn: 23070123131
+//Class: EnTC B-2
 #include <iostream>
 using namespace std;
 
@@ -155,4 +178,9 @@ int main() {
     return 0;
 }
 ~~~
+
+## Output:
+
 ![image](https://github.com/user-attachments/assets/b8a7a516-8630-4741-be9d-bad2a555427d)
+
+## Conclusion:
